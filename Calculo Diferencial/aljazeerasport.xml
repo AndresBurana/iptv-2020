@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Al Jazeera Sport News">
+    <display-name lang="en">Al Jazeera Sport News</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport Global">
+    <display-name lang="en">Al Jazeera Sport Global</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport 1">
+    <display-name lang="en">Al Jazeera Sport 1</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport 2">
+    <display-name lang="en">Al Jazeera Sport 2</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +1">
+    <display-name lang="en">Al Jazeera Sport +1</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +2">
+    <display-name lang="en">Al Jazeera Sport +2</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +3">
+    <display-name lang="en">Al Jazeera Sport +3</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +4">
+    <display-name lang="en">Al Jazeera Sport +4</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +5">
+    <display-name lang="en">Al Jazeera Sport +5</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +6">
+    <display-name lang="en">Al Jazeera Sport +6</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +7">
+    <display-name lang="en">Al Jazeera Sport +7</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +8">
+    <display-name lang="en">Al Jazeera Sport +8</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +9">
+    <display-name lang="en">Al Jazeera Sport +9</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport +10">
+    <display-name lang="en">Al Jazeera Sport +10</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport HD1">
+    <display-name lang="en">Al Jazeera Sport HD1</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+  <channel id="Al Jazeera Sport HD2">
+    <display-name lang="en">Al Jazeera Sport HD2</display-name>
+    <url>http://www.aljazeerasport.tv</url>
+  </channel>
+</tv>

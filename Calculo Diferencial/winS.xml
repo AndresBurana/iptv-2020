@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Win Sports +">
+    <display-name lang="en">Win Sports +</display-name>
+    <url>http://www.winsportsonline.com</url>
+  </channel>
+  <channel id="Win Sports Básico">
+    <display-name lang="en">Win Sports Básico</display-name>
+    <url>http://www.winsportsonline.com</url>
+  </channel>
+  <programme start="20210405005000 +0000" stop="20210405033000 +0000" channel="Win Sports +">
+    <title lang="en">Junior vs. Águilas Doradas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405033000 +0000" stop="20210405043000 +0000" channel="Win Sports +">
+    <title lang="en">Mucho+ Fútbol</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606521cf923c4507d0067235/schedule-image/mucho-mas-futbol-s.png" />
+  </programme>
+  <programme start="20210405043000 +0000" stop="20210405063000 +0000" channel="Win Sports +">
+    <title lang="en">Millonarios vs. Tolima</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405063000 +0000" stop="20210405080000 +0000" channel="Win Sports +">
+    <title lang="en">Mucho+ Fútbol</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60652220b93d8007c7ea429e/schedule-image/mucho-mas-futbol-s.png" />
+  </programme>
+  <programme start="20210405080000 +0000" stop="20210405100000 +0000" channel="Win Sports +">
+    <title lang="en">Boyacá Chicó vs. Pasto</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405100000 +0000" stop="20210405103000 +0000" channel="Win Sports +">
+    <title lang="en">Goles de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663220599f9857151efa64/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210405103000 +0000" stop="20210405113000 +0000" channel="Win Sports +">
+    <title lang="en">Los 100 Mejores Goles de 2015</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606632a170df0107cfd08b72/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210405113000 +0000" stop="20210405130000 +0000" channel="Win Sports +">
+    <title lang="en">Mucho+ Fútbol</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606632dce4edb507bfe9707c/schedule-image/mucho-mas-futbol-s.png" />
+  </programme>
+  <programme start="20210405130000 +0000" stop="20210405160000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6066332435e78f08979320ce/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210405180000 +0000" stop="20210405190000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606633a35a3f2b07c53553b7/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210405190000 +0000" stop="20210405200000 +0000" channel="Win Sports +">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606633f070df0107cfd08b85/schedule-image/score-mundial-s.png" />
+  </programme>
+  <programme start="20210405200000 +0000" stop="20210405210000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6066344f2742f007c5483257/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210405210000 +0000" stop="20210405225000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6066349dbd7e884c1c6b23de/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210405225000 +0000" stop="20210406010000 +0000" channel="Win Sports +">
+    <title lang="en">Bucaramanga vs. Patriotas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406010000 +0000" stop="20210406033000 +0000" channel="Win Sports +">
+    <title lang="en">Once Caldas vs. Jaguares</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406033000 +0000" stop="20210406040000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606636212742f007c5483284/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210406040000 +0000" stop="20210406050000 +0000" channel="Win Sports +">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6066368be5804c07cefca77d/schedule-image/score-mundial-s.png" />
+  </programme>
+  <programme start="20210406050000 +0000" stop="20210406060000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606636d117cb670872dfd085/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210406060000 +0000" stop="20210406080000 +0000" channel="Win Sports +">
+    <title lang="en">Once Caldas vs. Jaguares</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406080000 +0000" stop="20210406100000 +0000" channel="Win Sports +">
+    <title lang="en">Bucaramanga vs. Patriotas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406100000 +0000" stop="20210406103000 +0000" channel="Win Sports +">
+    <title lang="en">Goles de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067976fbd7e884c1c6b31dd/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210406103000 +0000" stop="20210406120000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606797a956d36307c4df4cfe/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210406120000 +0000" stop="20210406130000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606797ce47ab8e089e28e053/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210406130000 +0000" stop="20210406160000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606797f447ab8e089e28e058/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210406180000 +0000" stop="20210406190000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067986099268507d363d01c/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210406190000 +0000" stop="20210406210000 +0000" channel="Win Sports +">
+    <title lang="en">Bucaramanga vs. Patriotas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406210000 +0000" stop="20210406213000 +0000" channel="Win Sports +">
+    <title lang="en">Colombiano de Corazón</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606798ac17cb670872dfdbb7/schedule-image/colombiano-s.png" />
+  </programme>
+  <programme start="20210406213000 +0000" stop="20210406225000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606798d7599f9857151f04b0/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210406225000 +0000" stop="20210407010000 +0000" channel="Win Sports +">
+    <title lang="en">Pereira vs. Medellín</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407010000 +0000" stop="20210407033000 +0000" channel="Win Sports +">
+    <title lang="en">Alianza Petrolera vs. Santa Fe</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407033000 +0000" stop="20210407040000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60679a0c56d36307c4df4d0d/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407040000 +0000" stop="20210407053000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60679a52e04c1b42f95b8453/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210407053000 +0000" stop="20210407063000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60679a86d67d254bf778b6cd/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407063000 +0000" stop="20210407070000 +0000" channel="Win Sports +">
+    <title lang="en">Goles de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60679ab852837707c0b2f719/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210407070000 +0000" stop="20210407090000 +0000" channel="Win Sports +">
+    <title lang="en">Alianza Petrolera vs. Santa Fe</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407090000 +0000" stop="20210407100000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60679d46e04c1b42f95b8469/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407100000 +0000" stop="20210407103000 +0000" channel="Win Sports +">
+    <title lang="en">Goles de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e76fc5c1ae07cf863651/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210407103000 +0000" stop="20210407120000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e7d7f88ee407bcec7b37/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210407120000 +0000" stop="20210407130000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e7ffcef4dd07cf767941/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407130000 +0000" stop="20210407160000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e824d67d254bf778c0b0/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210407180000 +0000" stop="20210407190000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e8b2e04c1b42f95b90e1/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407190000 +0000" stop="20210407210000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407210000 +0000" stop="20210407213000 +0000" channel="Win Sports +">
+    <title lang="en">Campañas</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e8ee2391b7338fd5cf97/schedule-image/campanas-s.png" />
+  </programme>
+  <programme start="20210407213000 +0000" stop="20210407230000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e924ca5fa454afa297ac/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210407230000 +0000" stop="20210408003000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068e952bd7e884c1c6b3d80/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210408003000 +0000" stop="20210408023000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408023000 +0000" stop="20210408033000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068eb122c110a07cc6d0978/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210408033000 +0000" stop="20210408050000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068eb3ac5c1ae07cf8636a2/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210408050000 +0000" stop="20210408060000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068eb592c3e7507c68bfa24/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210408060000 +0000" stop="20210408080000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408080000 +0000" stop="20210408100000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408100000 +0000" stop="20210408103000 +0000" channel="Win Sports +">
+    <title lang="en">Goles de la Fecha</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408103000 +0000" stop="20210408120000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068fe53ca5fa454afa29a3c/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210408120000 +0000" stop="20210408130000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068fe78d67d254bf778c36f/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210408130000 +0000" stop="20210408160000 +0000" channel="Win Sports +">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068fe9a80e24d07bf07596b/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210408180000 +0000" stop="20210408190000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068fef5cef4dd07cf767b80/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210408190000 +0000" stop="20210408210000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408213000 +0000" stop="20210408230000 +0000" channel="Win Sports +">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068ff59e04c1b42f95b935c/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210408230000 +0000" stop="20210409003000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068ff7a2391b7338fd5d227/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210409003000 +0000" stop="20210409023000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210409023000 +0000" stop="20210409033000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068ffc82391b7338fd5d237/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210409033000 +0000" stop="20210409050000 +0000" channel="Win Sports +">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068ffde599f9857151f117c/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210409050000 +0000" stop="20210409060000 +0000" channel="Win Sports +">
+    <title lang="en">Win+ Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6069000817cb670872dfe7cd/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210409060000 +0000" stop="20210409080000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210409080000 +0000" stop="20210409100000 +0000" channel="Win Sports +">
+    <title lang="en">Liga BetPlay Dimayor</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405010000 +0000" stop="20210405030000 +0000" channel="Win Sports Básico">
+    <title lang="en">Millonarios vs. Tolima</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405030000 +0000" stop="20210405043000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606526f35034f607d55932c4/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210405043000 +0000" stop="20210405063000 +0000" channel="Win Sports Básico">
+    <title lang="en">Unión Magdalena vs. Barranquilla</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405063000 +0000" stop="20210405080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6065273bb93d8007c7ea4546/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210405080000 +0000" stop="20210405100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Bucaramanga vs. Alianza Petrolera</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210405103000 +0000" stop="20210405113000 +0000" channel="Win Sports Básico">
+    <title lang="en">Especiales Win Sports</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663a4a3e934607b76cd9cf/schedule-image/especiales-win-s.png" />
+  </programme>
+  <programme start="20210405113000 +0000" stop="20210405130000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663a9d40b26a07d45125c8/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210405130000 +0000" stop="20210405160000 +0000" channel="Win Sports Básico">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663b233e934607b76cd9da/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210405160000 +0000" stop="20210405170000 +0000" channel="Win Sports Básico">
+    <title lang="en">Detrás dela Gloria El Legado Verde (Nacional 2015)</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663b5f6c6cfe57a76f96eb/schedule-image/detras-de-la-gloria-e.png" />
+  </programme>
+  <programme start="20210405170000 +0000" stop="20210405173000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663bb908cf5308bbb3727a/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210405200000 +0000" stop="20210405210000 +0000" channel="Win Sports Básico">
+    <title lang="en">Ciclismo entre Grandes</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663d1140b26a07d45125f6/schedule-image/ciclismo-800x600.png" />
+  </programme>
+  <programme start="20210405210000 +0000" stop="20210405225000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663d5117cb670872dfd0d3/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210405225000 +0000" stop="20210406010000 +0000" channel="Win Sports Básico">
+    <title lang="en">Bucaramanga vs. Patriotas</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406010000 +0000" stop="20210406033000 +0000" channel="Win Sports Básico">
+    <title lang="en">Once Caldas vs. Jaguares</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406033000 +0000" stop="20210406040000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663e3a599f9857151efae8/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210406040000 +0000" stop="20210406050000 +0000" channel="Win Sports Básico">
+    <title lang="en">Ciclismo entre Grandes</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663e90fc51af07c42bc474/schedule-image/ciclismo-800x600.png" />
+  </programme>
+  <programme start="20210406050000 +0000" stop="20210406060000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60663ec6e04c1b42f95b76b1/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210406060000 +0000" stop="20210406080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Nacional vs. Cali</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406080000 +0000" stop="20210406100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Millonarios vs. Unión Magdalena</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210406100000 +0000" stop="20210406110000 +0000" channel="Win Sports Básico">
+    <title lang="en">Ciclismo entre Grandes</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a62399268507d363d0ae/schedule-image/ciclismo-800x600.png" />
+  </programme>
+  <programme start="20210406110000 +0000" stop="20210406120000 +0000" channel="Win Sports Básico">
+    <title lang="en">Score Mundial</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a645599f9857151f0545/schedule-image/score-mundial-s.png" />
+  </programme>
+  <programme start="20210406120000 +0000" stop="20210406130000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a672d5582349061e064e/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210406130000 +0000" stop="20210406150000 +0000" channel="Win Sports Básico">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a697ed387e42d4968aa1/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210406190000 +0000" stop="20210406193000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a764731dc807d4341d21/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210406193000 +0000" stop="20210406203000 +0000" channel="Win Sports Básico">
+    <title lang="en">Ciclismo entre Grandes</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a78a2391b7338fd5c61d/schedule-image/ciclismo-800x600.png" />
+  </programme>
+  <programme start="20210406203000 +0000" stop="20210406213000 +0000" channel="Win Sports Básico">
+    <title lang="en">Camino a Primera</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a7ab599f9857151f055b/schedule-image/camino-aprimera-s.png" />
+  </programme>
+  <programme start="20210406213000 +0000" stop="20210406225000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a7e6b3e71f07c35e38f4/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210406225000 +0000" stop="20210407003000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a82b2391b7338fd5c622/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210407003000 +0000" stop="20210407010000 +0000" channel="Win Sports Básico">
+    <title lang="en">Previa Alianza Petrolera vs. Santa Fe</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a8586c6cfe57a76fa581/schedule-image/800x600.jpg" />
+  </programme>
+  <programme start="20210407010000 +0000" stop="20210407030000 +0000" channel="Win Sports Básico">
+    <title lang="en">América vs. La Equidad</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407030000 +0000" stop="20210407040000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a8a6edd1d908692b1a78/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407040000 +0000" stop="20210407053000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a8cc2391b7338fd5c627/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210407053000 +0000" stop="20210407063000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a8f1599f9857151f056e/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407070000 +0000" stop="20210407090000 +0000" channel="Win Sports Básico">
+    <title lang="en">Nacional vs. Medellín</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407090000 +0000" stop="20210407100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6067a96f17cb670872dfdc68/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407103000 +0000" stop="20210407120000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068ef8eaa342607b7b07a42/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210407120000 +0000" stop="20210407130000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068efb52c110a07cc6d0aca/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407130000 +0000" stop="20210407150000 +0000" channel="Win Sports Básico">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068efde8918c407c76a53a9/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210407190000 +0000" stop="20210407193000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f069bd7e884c1c6b4024/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210407193000 +0000" stop="20210407203000 +0000" channel="Win Sports Básico">
+    <title lang="en">Los 100 Mejores Goles de 2019</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210407203000 +0000" stop="20210407213000 +0000" channel="Win Sports Básico">
+    <title lang="en">El Show de la Liga</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f0beaa342607b7b07a62/schedule-image/show-de-la-liga-s.png" />
+  </programme>
+  <programme start="20210407213000 +0000" stop="20210407230000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f0f146b38407b698e312/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210407230000 +0000" stop="20210408003000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f11b6c5cea07bfff267e/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210408003000 +0000" stop="20210408023000 +0000" channel="Win Sports Básico">
+    <title lang="en">Alianza Petrolera vs. Santa Fe</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408023000 +0000" stop="20210408033000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f17d2c3e7507c68bfad0/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210408033000 +0000" stop="20210408050000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f1a2aa342607b7b07a7e/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210408050000 +0000" stop="20210408060000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6068f1c9f88ee407bcec7be7/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210408060000 +0000" stop="20210408080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Repetición Partido</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408080000 +0000" stop="20210408100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Repetición Partido</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408103000 +0000" stop="20210408120000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60690189cef4dd07cf767bb5/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210408120000 +0000" stop="20210408130000 +0000" channel="Win Sports Básico">
+    <title lang="en">Lo Mejor de la Fecha</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606901a9f88ee407bcec7dfd/schedule-image/lo-mejor-de-la-fecha-s.png" />
+  </programme>
+  <programme start="20210408130000 +0000" stop="20210408150000 +0000" channel="Win Sports Básico">
+    <title lang="en">Primer Toque</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606901c7d5582349061e12c3/schedule-image/primer-toque-s.png" />
+  </programme>
+  <programme start="20210408190000 +0000" stop="20210408193000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60690250aa342607b7b07c46/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210408193000 +0000" stop="20210408203000 +0000" channel="Win Sports Básico">
+    <title lang="en">Los 100 Mejores Goles de 2020</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210408203000 +0000" stop="20210408213000 +0000" channel="Win Sports Básico">
+    <title lang="en">El Show de la Liga</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6069029d46b38407b698e510/schedule-image/show-de-la-liga-s.png" />
+  </programme>
+  <programme start="20210408213000 +0000" stop="20210408230000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606902c68918c407c76a55d0/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210408230000 +0000" stop="20210409003000 +0000" channel="Win Sports Básico">
+    <title lang="en">Conexión</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606902e86c5cea07bfff28af/schedule-image/conexion-s.png" />
+  </programme>
+  <programme start="20210409003000 +0000" stop="20210409023000 +0000" channel="Win Sports Básico">
+    <title lang="en">Pereira vs. Medellín</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210409023000 +0000" stop="20210409033000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/606903367f27c0130e819258/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210409033000 +0000" stop="20210409050000 +0000" channel="Win Sports Básico">
+    <title lang="en">Saque Largo</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/60690352599f9857151f11dc/schedule-image/saque-largo-s.png" />
+  </programme>
+  <programme start="20210409050000 +0000" stop="20210409060000 +0000" channel="Win Sports Básico">
+    <title lang="en">Win Noticias</title>
+    <icon src="https://crop-platform-static.cdn.mdstrm.com/custom_files/526590f532b8fca13200005c/schedule/6069037b45143201e2f0d7b7/schedule-image/win-noticias-s.png" />
+  </programme>
+  <programme start="20210409060000 +0000" stop="20210409080000 +0000" channel="Win Sports Básico">
+    <title lang="en">Repetición Partido</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+  <programme start="20210409080000 +0000" stop="20210409100000 +0000" channel="Win Sports Básico">
+    <title lang="en">Repetición Partido</title>
+    <icon src="https://ott-images.mediastre.am/winsports/assets/images/default.png" />
+  </programme>
+</tv>

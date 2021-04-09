@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 10">
+    <display-name lang="es">Canal 10</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Televisión Nacional">
+    <display-name lang="es">Televisión Nacional</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Monte Carlo TV">
+    <display-name lang="es">Monte Carlo TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 12 Melo">
+    <display-name lang="es">Canal 12 Melo</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="RTV">
+    <display-name lang="es">RTV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Tevé Ciudad">
+    <display-name lang="es">Tevé Ciudad</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="A + V">
+    <display-name lang="es">A + V</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Vera+ HD">
+    <display-name lang="es">Vera+ HD</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 7 Punta">
+    <display-name lang="es">Canal 7 Punta</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Artigas Televisión">
+    <display-name lang="es">Artigas Televisión</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 2 Lascano">
+    <display-name lang="es">Canal 2 Lascano</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Soy Tacuarembó TV">
+    <display-name lang="es">Soy Tacuarembó TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 8 de Rocha">
+    <display-name lang="es">Canal 8 de Rocha</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Cámara de Representantes">
+    <display-name lang="es">Cámara de Representantes</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="VTV+">
+    <display-name lang="es">VTV+</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 11 Treinta y Tres">
+    <display-name lang="es">Canal 11 Treinta y Tres</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 4 Chuy">
+    <display-name lang="es">Canal 4 Chuy</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="1 TV Salto HD">
+    <display-name lang="es">1 TV Salto HD</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Charrúa TV">
+    <display-name lang="es">Charrúa TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 4 HD Treinta y Tres">
+    <display-name lang="es">Canal 4 HD Treinta y Tres</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="TVL Pando">
+    <display-name lang="es">TVL Pando</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 4 Paysandú">
+    <display-name lang="es">Canal 4 Paysandú</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 4 Juan Lacaze">
+    <display-name lang="es">Canal 4 Juan Lacaze</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="El Canal de la Región - Noreste Canelones">
+    <display-name lang="es">El Canal de la Región - Noreste Canelones</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 8 Durazno">
+    <display-name lang="es">Canal 8 Durazno</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 4 Salto">
+    <display-name lang="es">Canal 4 Salto</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 2 San Carlos">
+    <display-name lang="es">Canal 2 San Carlos</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="DW Latinoamérica">
+    <display-name lang="es">DW Latinoamérica</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal CV 10">
+    <display-name lang="es">Canal CV 10</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 6 Durazno">
+    <display-name lang="es">Canal 6 Durazno</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Telesur">
+    <display-name lang="es">Telesur</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal U">
+    <display-name lang="es">Canal U</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="RT en Español">
+    <display-name lang="es">RT en Español</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Cámara de Senadores">
+    <display-name lang="es">Cámara de Senadores</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="TV Brasil Internacional">
+    <display-name lang="es">TV Brasil Internacional</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 11 Las Piedras">
+    <display-name lang="es">Canal 11 Las Piedras</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 8 Artigas">
+    <display-name lang="es">Canal 8 Artigas</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Rio Uruguay Television">
+    <display-name lang="es">Rio Uruguay Television</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 9 Telerocha">
+    <display-name lang="es">Canal 9 Telerocha</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 8 Rivera">
+    <display-name lang="es">Canal 8 Rivera</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 23 TVD">
+    <display-name lang="es">Canal 23 TVD</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Uruguay Natural TV">
+    <display-name lang="es">Uruguay Natural TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="es">Al Jazeera</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 5 Noticias Deportes">
+    <display-name lang="es">Canal 5 Noticias Deportes</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Mi Móvil TV">
+    <display-name lang="es">Mi Móvil TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="RN3G">
+    <display-name lang="es">RN3G</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="es">France 24</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Colsecor TV">
+    <display-name lang="es">Colsecor TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Canal 2 Visión Canaria">
+    <display-name lang="es">Canal 2 Visión Canaria</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="+Deporte">
+    <display-name lang="es">+Deporte</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Los Profesionales">
+    <display-name lang="es">Los Profesionales</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Presidencia Uruguay">
+    <display-name lang="es">Presidencia Uruguay</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+  <channel id="Espectador TV">
+    <display-name lang="es">Espectador TV</display-name>
+    <url>http://www.tv.vera.com.uy</url>
+  </channel>
+</tv>

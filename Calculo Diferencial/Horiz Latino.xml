@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CaracolHd">
+    <display-name lang="en">CaracolHd</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="AZ Mundo">
+    <display-name lang="en">AZ Mundo</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Pasiones">
+    <display-name lang="en">Pasiones</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Univision TL Novelas">
+    <display-name lang="en">Univision TL Novelas</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Azteca Corazon">
+    <display-name lang="en">Azteca Corazon</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TV Espanola">
+    <display-name lang="en">TV Espanola</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="A3Cine">
+    <display-name lang="en">A3Cine</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cine Latino">
+    <display-name lang="en">Cine Latino</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TV Dominicana">
+    <display-name lang="en">TV Dominicana</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Ultra Familia">
+    <display-name lang="en">Ultra Familia</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery TurboLatam">
+    <display-name lang="en">Discovery TurboLatam</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Antena 3 Intl">
+    <display-name lang="en">Antena 3 Intl</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="WKAQ  TV  Telemundo">
+    <display-name lang="en">WKAQ  TV  Telemundo</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Wapa">
+    <display-name lang="en">Wapa</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="A3series">
+    <display-name lang="en">A3series</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="WIPR TV">
+    <display-name lang="en">WIPR TV</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="WSTE TeleIsla">
+    <display-name lang="en">WSTE TeleIsla</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Univision">
+    <display-name lang="en">Univision</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="en">Mega TV</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="NBC PR">
+    <display-name lang="en">NBC PR</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="MSNBC">
+    <display-name lang="en">MSNBC</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Reelz Channel">
+    <display-name lang="en">Reelz Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="USA Network">
+    <display-name lang="en">USA Network</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Bein Sports">
+    <display-name lang="en">Bein Sports</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Bein Sports Español">
+    <display-name lang="en">Bein Sports Español</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Golf Channel">
+    <display-name lang="en">Golf Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Wapa 2">
+    <display-name lang="en">Wapa 2</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="en">E! Entertainment</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Bravo">
+    <display-name lang="en">Bravo</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="en">Food Network</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cooking Channel">
+    <display-name lang="en">Cooking Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="DIY">
+    <display-name lang="en">DIY</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Destination America">
+    <display-name lang="en">Destination America</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery USA">
+    <display-name lang="en">Discovery USA</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Animal Planet Hd">
+    <display-name lang="en">Animal Planet Hd</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TLC  USA">
+    <display-name lang="en">TLC  USA</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Hallmark Channel">
+    <display-name lang="en">Hallmark Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Hallmark Drama">
+    <display-name lang="en">Hallmark Drama</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="NBC Sports Network">
+    <display-name lang="en">NBC Sports Network</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Kids Hd">
+    <display-name lang="en">Discovery Kids Hd</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Oxygen">
+    <display-name lang="en">Oxygen</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Family">
+    <display-name lang="en">Discovery Family</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Hallmark Mysteries">
+    <display-name lang="en">Hallmark Mysteries</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Canal 85">
+    <display-name lang="en">Canal 85</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Universo">
+    <display-name lang="en">Universo</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Life">
+    <display-name lang="en">Discovery Life</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="American Heroes">
+    <display-name lang="en">American Heroes</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ID Discovery">
+    <display-name lang="en">ID Discovery</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id=" Hd">
+    <display-name lang="en">Discovery Science Hd</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Motortrend">
+    <display-name lang="en">Motortrend</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Home And Health Latam">
+    <display-name lang="en">Discovery Home And Health Latam</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Latam">
+    <display-name lang="en">Discovery Latam</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TLC ESPANOL">
+    <display-name lang="en">TLC ESPANOL</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Investigation Discovery Latam">
+    <display-name lang="en">Investigation Discovery Latam</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Animal Planet Latam">
+    <display-name lang="en">Animal Planet Latam</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="LAS">
+    <display-name lang="en">LAS</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Televisa y Univision Deportes Network">
+    <display-name lang="en">Televisa y Univision Deportes Network</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Az Cinema">
+    <display-name lang="en">Az Cinema</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="en">TVE</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TVN HD">
+    <display-name lang="en">TVN HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Mega HD">
+    <display-name lang="en">Mega HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Chilevisión HD">
+    <display-name lang="en">Chilevisión HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Canal 13 HD">
+    <display-name lang="en">Canal 13 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="24 Horas HD">
+    <display-name lang="en">24 Horas HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CNN Chile HD">
+    <display-name lang="en">CNN Chile HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Warner HD">
+    <display-name lang="en">Warner HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="AE Mundo HD">
+    <display-name lang="en">AE Mundo HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Paramount HD">
+    <display-name lang="en">Paramount HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="en">Sony HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="en">TNT Series HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="en">TNT HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="en">Space HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="en">TBS HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Golden HD">
+    <display-name lang="en">Golden HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Hbo Family HD">
+    <display-name lang="en">Hbo Family HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="en">HBO Xtreme</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Series">
+    <display-name lang="en">Fox Series</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="en">Fox Movies HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Family HD">
+    <display-name lang="en">Fox Family HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Action HD">
+    <display-name lang="en">Fox Action HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="en">ESPN HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="en">ESPN 2</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="en">ESPN 3</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ESPN ">
+    <display-name lang="en">ESPN </display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TyC Sports HD">
+    <display-name lang="en">TyC Sports HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Teletrak Tv HD">
+    <display-name lang="en">Teletrak Tv HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Sports 1 HD">
+    <display-name lang="en">Fox Sports 1 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="en">Fox Sports 2 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Sports 3 HD">
+    <display-name lang="en">Fox Sports 3 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CDF HD">
+    <display-name lang="en">CDF HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Nick Jr HD">
+    <display-name lang="en">Nick Jr HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="en">NatGeo Kids HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="en">Discovery Kids HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="en">Boomerang HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="13C HD">
+    <display-name lang="en">13C HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="en">History Channel HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="en">History 2 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="en">Discovery Theater HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Home  Health HD">
+    <display-name lang="en">Discovery Home  Health HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery TLC HD">
+    <display-name lang="en">Discovery TLC HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="en">Discovery World HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Trutv HD">
+    <display-name lang="en">Trutv HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ID Investigation Discovery">
+    <display-name lang="en">ID Investigation Discovery</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="en">Comedy Central HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="E Entertainment">
+    <display-name lang="en">E Entertainment</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="en">Lifetime HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="en">MTV HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="en">VH1 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Telefé HD">
+    <display-name lang="en">Telefé HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Az Clic HD">
+    <display-name lang="en">Az Clic HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Az Corazón HD">
+    <display-name lang="en">Az Corazón HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Az Mundo HD">
+    <display-name lang="en">Az Mundo HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Canal de las Estrellas HD">
+    <display-name lang="en">Canal de las Estrellas HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Star TVE HD">
+    <display-name lang="en">Star TVE HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Antena 3 HD">
+    <display-name lang="en">Antena 3 HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="en">HBO Mundi</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Playboy">
+    <display-name lang="en">Playboy</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Canal TV Senado">
+    <display-name lang="en">Canal TV Senado</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Canal Diputados">
+    <display-name lang="en">Canal Diputados</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Telecanal">
+    <display-name lang="en">Telecanal</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TV HD">
+    <display-name lang="en">TV HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="La Red HD">
+    <display-name lang="en">La Red HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TBS SD">
+    <display-name lang="en">TBS SD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ISat">
+    <display-name lang="en">ISat</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Golden Edge">
+    <display-name lang="en">Golden Edge</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="en">HBO 2</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Hbo Signature">
+    <display-name lang="en">Hbo Signature</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="en">HBO Plus</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Mega Plus HD">
+    <display-name lang="en">Mega Plus HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Science1 HD">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Comedy">
+    <display-name lang="en">Fox Comedy</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Cinema">
+    <display-name lang="en">Fox Cinema</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Fox Classics">
+    <display-name lang="en">Fox Classics</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cocina Viva HD">
+    <display-name lang="en">Cocina Viva HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CDF">
+    <display-name lang="en">CDF</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="en">Discovery Turbo</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CDF Premium">
+    <display-name lang="en">CDF Premium</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="A3Series HD">
+    <display-name lang="en">A3Series HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="BBC World News HD">
+    <display-name lang="en">BBC World News HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="en">Discovery Kids</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="en">Tooncast</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="A3Cine HD">
+    <display-name lang="en">A3Cine HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="ETC TV">
+    <display-name lang="en">ETC TV</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="en">Discovery Civilization</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="en">EWTN</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TNE">
+    <display-name lang="en">TNE</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Discovery TLC">
+    <display-name lang="en">Discovery TLC</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Investigation Discovery">
+    <display-name lang="en">Investigation Discovery</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Glitz">
+    <display-name lang="en">Glitz</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Vive">
+    <display-name lang="en">Vive</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Mtv Hits">
+    <display-name lang="en">Mtv Hits</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Mtv Dance">
+    <display-name lang="en">Mtv Dance</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Much Music">
+    <display-name lang="en">Much Music</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="VH1 MegaHits">
+    <display-name lang="en">VH1 MegaHits</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Htv">
+    <display-name lang="en">Htv</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Golf Channel HD">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="América">
+    <display-name lang="en">América</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="en">Deutsche Welle</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TV5 Francia">
+    <display-name lang="en">TV5 Francia</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="en">RAI</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CCTV4 China">
+    <display-name lang="en">CCTV4 China</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="TV Perú">
+    <display-name lang="en">TV Perú</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Caracol">
+    <display-name lang="en">Caracol</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Globo Internacional">
+    <display-name lang="en">Globo Internacional</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CNN Español">
+    <display-name lang="en">CNN Español</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="en">CNN Internacional</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="en">BBC World</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="VOA">
+    <display-name lang="en">VOA</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="en">Venus</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="en">Sextreme</display-name>
+    <url>http://www.horizon_latino.tv.EK</url>
+  </channel>
+</tv>

@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="La 1">
+    <display-name lang="es">La 1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 2">
+    <display-name lang="es">La 2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Telecinco">
+    <display-name lang="es">Telecinco</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="laSexta">
+    <display-name lang="es">laSexta</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Teledeporte">
+    <display-name lang="es">Teledeporte</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Clan TVE">
+    <display-name lang="es">Clan TVE</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal 24 h">
+    <display-name lang="es">Canal 24 h</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Nova">
+    <display-name lang="es">Nova</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="FDF Telecinco">
+    <display-name lang="es">FDF Telecinco</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Energy">
+    <display-name lang="es">Energy</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Divinity">
+    <display-name lang="es">Divinity</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Boing">
+    <display-name lang="es">Boing</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="El Toro TV">
+    <display-name lang="es">El Toro TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="es">Paramount Network</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="13 TV">
+    <display-name lang="es">13 TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="es">DMAX</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 1 Catalunya">
+    <display-name lang="es">La 1 Catalunya</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 2 Catalunya">
+    <display-name lang="es">La 2 Catalunya</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La Otra">
+    <display-name lang="es">La Otra</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="es">TV3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Super 3">
+    <display-name lang="es">Super 3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="3/24">
+    <display-name lang="es">3/24</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Esport3">
+    <display-name lang="es">Esport3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="es">8TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="IB3">
+    <display-name lang="es">IB3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Sur">
+    <display-name lang="es">Canal Sur</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Sur Andalucía">
+    <display-name lang="es">Canal Sur Andalucía</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVG">
+    <display-name lang="es">TVG</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ETB1 1">
+    <display-name lang="es">ETB1 1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ETB 2">
+    <display-name lang="es">ETB 2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ETB 3">
+    <display-name lang="es">ETB 3</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TelevisiónCanaria">
+    <display-name lang="es">TelevisiónCanaria</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Castilla - La Mancha TV">
+    <display-name lang="es">Castilla - La Mancha TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Aragón TV">
+    <display-name lang="es">Aragón TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TPA">
+    <display-name lang="es">TPA</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="7 Región de Murcia">
+    <display-name lang="es">7 Región de Murcia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Extremadura TV">
+    <display-name lang="es">Canal Extremadura TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="CyLTV">
+    <display-name lang="es">CyLTV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Navarra Televisión">
+    <display-name lang="es">Navarra Televisión</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 8">
+    <display-name lang="es">La 8</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Tele Elx">
+    <display-name lang="es">Tele Elx</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal 7 Televalencia">
+    <display-name lang="es">Canal 7 Televalencia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Onda Algeciras TV">
+    <display-name lang="es">Onda Algeciras TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Popular TV Murcia">
+    <display-name lang="es">Popular TV Murcia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ZTV">
+    <display-name lang="es">ZTV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar DCine">
+    <display-name lang="es">Movistar DCine</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Comedia">
+    <display-name lang="es">Movistar Comedia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Acción">
+    <display-name lang="es">Movistar Acción</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TMV Valencia">
+    <display-name lang="es">TMV Valencia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Estrenos">
+    <display-name lang="es">Movistar Estrenos</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Cine Español">
+    <display-name lang="es">Movistar Cine Español</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal+">
+    <display-name lang="es">Canal+</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Xtra">
+    <display-name lang="es">Movistar Xtra</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TCM +1">
+    <display-name lang="es">TCM +1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Hollywood">
+    <display-name lang="es">Hollywood</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="XTRM">
+    <display-name lang="es">XTRM</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Somos">
+    <display-name lang="es">Somos</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Hollywood +1">
+    <display-name lang="es">Hollywood +1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Sundance Channel">
+    <display-name lang="es">Sundance Channel</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Series">
+    <display-name lang="es">Movistar Series</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Series Xtra">
+    <display-name lang="es">Movistar Series Xtra</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="es">FOX</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="es">AXN White</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Calle 13">
+    <display-name lang="es">Calle 13</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Futbol Replay">
+    <display-name lang="es">Futbol Replay</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="es">Fox Life</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Cosmopolitan">
+    <display-name lang="es">Cosmopolitan</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Cocina">
+    <display-name lang="es">Canal Cocina</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="es">Syfy</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Decasa">
+    <display-name lang="es">Decasa</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Crimen &amp; Investigación">
+    <display-name lang="es">Crimen &amp; Investigación</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Golf">
+    <display-name lang="es">Movistar Golf</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="es">Eurosport</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="es">Eurosport 2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Barça TV">
+    <display-name lang="es">Barça TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="El Garage TV">
+    <display-name lang="es">El Garage TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="es">Extreme Sports</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Motors tv">
+    <display-name lang="es">Motors tv</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal+ Liga">
+    <display-name lang="es">Canal+ Liga</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="es">Real Madrid TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Fútbol">
+    <display-name lang="es">Movistar Fútbol</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Deportes">
+    <display-name lang="es">Movistar Deportes</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Caza y Pesca">
+    <display-name lang="es">Caza y Pesca</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="National Geographic Wild\tGeoWild\t985">
+    <display-name lang="es">National Geographic Wild\tGeoWild\t985</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar Deportes 2">
+    <display-name lang="es">Movistar Deportes 2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Moto GP">
+    <display-name lang="es">Moto GP</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Odisea">
+    <display-name lang="es">Odisea</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Historia">
+    <display-name lang="es">Historia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Non Stop People">
+    <display-name lang="es">Non Stop People</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Viajar">
+    <display-name lang="es">Viajar</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Cazavisión">
+    <display-name lang="es">Cazavisión</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Blaze">
+    <display-name lang="es">Blaze</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Disney Channel +1">
+    <display-name lang="es">Disney Channel +1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV Live">
+    <display-name lang="es">MTV Live</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="es">Disney XD</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Mezzo Live">
+    <display-name lang="es">Mezzo Live</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Disney XD +1">
+    <display-name lang="es">Disney XD +1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="es">Baby TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Nick Junior">
+    <display-name lang="es">Nick Junior</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Panda">
+    <display-name lang="es">Canal Panda</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV España">
+    <display-name lang="es">MTV España</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="40TV">
+    <display-name lang="es">40TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Sol Música">
+    <display-name lang="es">Sol Música</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV Rocks">
+    <display-name lang="es">MTV Rocks</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV Dance">
+    <display-name lang="es">MTV Dance</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="es">Mezzo</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MTV Music">
+    <display-name lang="es">MTV Music</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="AZ Mundo">
+    <display-name lang="es">AZ Mundo</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="VH1 Classic">
+    <display-name lang="es">VH1 Classic</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV3CAT">
+    <display-name lang="es">TV3CAT</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Andalucía TV">
+    <display-name lang="es">Andalucía TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="CGTN Español">
+    <display-name lang="es">CGTN Español</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Phoenix CNE">
+    <display-name lang="es">Phoenix CNE</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Phoenix Infonews">
+    <display-name lang="es">Phoenix Infonews</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Galicia TV">
+    <display-name lang="es">Galicia TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ETB4 4">
+    <display-name lang="es">ETB4 4</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Pro TV Internacional">
+    <display-name lang="es">Pro TV Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="CNN Internacional">
+    <display-name lang="es">CNN Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="AZ Corazón">
+    <display-name lang="es">AZ Corazón</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="El Trece Internacional">
+    <display-name lang="es">El Trece Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="es">BBC World</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="es">CNBC</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="es">Al Jazeera English</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal Parlamento">
+    <display-name lang="es">Canal Parlamento</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="es">Fox News</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="es">Bloomberg</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="UPV TV">
+    <display-name lang="es">UPV TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Deutsche Welle">
+    <display-name lang="es">Deutsche Welle</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="es">TV5 Monde</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Canal de las Estrellas Europa">
+    <display-name lang="es">Canal de las Estrellas Europa</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Cubavisión Internacional">
+    <display-name lang="es">Cubavisión Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Movistar F1">
+    <display-name lang="es">Movistar F1</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La Xarxa Televisions">
+    <display-name lang="es">La Xarxa Televisions</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Orbe 21">
+    <display-name lang="es">Orbe 21</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Record TV">
+    <display-name lang="es">Record TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV Colombia">
+    <display-name lang="es">TV Colombia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Caracol TV">
+    <display-name lang="es">Caracol TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV Mediterráneo">
+    <display-name lang="es">TV Mediterráneo</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Iberalia 2">
+    <display-name lang="es">Iberalia 2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Telefé Internacional">
+    <display-name lang="es">Telefé Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="teleSUR">
+    <display-name lang="es">teleSUR</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Classica">
+    <display-name lang="es">Classica</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="CNC News">
+    <display-name lang="es">CNC News</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="i24 News">
+    <display-name lang="es">i24 News</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV Chile">
+    <display-name lang="es">TV Chile</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="ETB 4">
+    <display-name lang="es">ETB 4</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Fight Sports">
+    <display-name lang="es">Fight Sports</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Ukraine Today">
+    <display-name lang="es">Ukraine Today</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TV Polonia">
+    <display-name lang="es">TV Polonia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TeleRibera">
+    <display-name lang="es">TeleRibera</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Taroteame">
+    <display-name lang="es">Taroteame</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MyZen TV">
+    <display-name lang="es">MyZen TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="MarTV">
+    <display-name lang="es">MarTV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 8 Burgos">
+    <display-name lang="es">La 8 Burgos</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Fashion One">
+    <display-name lang="es">Fashion One</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="VE PLUS TV">
+    <display-name lang="es">VE PLUS TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="RT español">
+    <display-name lang="es">RT español</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="betevé">
+    <display-name lang="es">betevé</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="es">France 24</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="National Geographic Wild HD">
+    <display-name lang="es">National Geographic Wild HD</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="es">TVE Internacional</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVE América I">
+    <display-name lang="es">TVE América I</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVE América II">
+    <display-name lang="es">TVE América II</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVE Internacional Asia">
+    <display-name lang="es">TVE Internacional Asia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Iberalia">
+    <display-name lang="es">Iberalia</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="BeIN Sports">
+    <display-name lang="es">BeIN Sports</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Viral TV">
+    <display-name lang="es">Viral TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Dkiss">
+    <display-name lang="es">Dkiss</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Gol TV">
+    <display-name lang="es">Gol TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="BeIN LaLiga">
+    <display-name lang="es">BeIN LaLiga</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="TVG2">
+    <display-name lang="es">TVG2</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Be Mad">
+    <display-name lang="es">Be Mad</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Partidazo">
+    <display-name lang="es">Partidazo</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Libertad Digital TV">
+    <display-name lang="es">Libertad Digital TV</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="Dark">
+    <display-name lang="es">Dark</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="La 1 HD">
+    <display-name lang="es">La 1 HD</display-name>
+    <url>http://www.elpais.com.E</url>
+  </channel>
+</tv>

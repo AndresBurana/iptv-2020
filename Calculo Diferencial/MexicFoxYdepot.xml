@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.espndeportes.com.mexico</url>
+  </channel>
+  <channel id="ESPN Dos">
+    <display-name lang="es">ESPN Dos</display-name>
+    <url>http://www.espndeportes.com.mexico</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="es">ESPN HD</display-name>
+    <url>http://www.espndeportes.com.mexico</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.espndeportes.com.mexico</url>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name lang="es">FOX SPORTS 3</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX SPORTS 2 MEXICO">
+    <display-name lang="es">FOX SPORTS 2 MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX SPORTS MEXICO">
+    <display-name lang="es">FOX SPORTS MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX CLASSICS">
+    <display-name lang="es">FOX CLASSICS</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX 1 LATAM">
+    <display-name lang="es">FOX 1 LATAM</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX CINEMA">
+    <display-name lang="es">FOX CINEMA</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="es">FOX COMEDY</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX FAMILY">
+    <display-name lang="es">FOX FAMILY</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="es">FOX MOVIES</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="NAT GEO WILD LATAM">
+    <display-name lang="es">NAT GEO WILD LATAM</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FX Movies Central">
+    <display-name lang="es">FX Movies Central</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="NAT GEO MEXICO">
+    <display-name lang="es">NAT GEO MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FX Movies West">
+    <display-name lang="es">FX Movies West</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FX MEXICO">
+    <display-name lang="es">FX MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX MEXICO">
+    <display-name lang="es">FOX MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX LIFE MEXICO">
+    <display-name lang="es">FOX LIFE MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="FOX ACTION LATAM">
+    <display-name lang="es">FOX ACTION LATAM</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="CINECANAL MEXICO">
+    <display-name lang="es">CINECANAL MEXICO</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+  <channel id="NAT GEO KIDS WEST">
+    <display-name lang="es">NAT GEO KIDS WEST</display-name>
+    <url>http://www.foxplay.com.mx</url>
+  </channel>
+</tv>

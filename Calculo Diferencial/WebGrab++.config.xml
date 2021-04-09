@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>UsaTvGuide2.xml</filename>
+  <mode>m n</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <decryptkey site="site-name">
+  </decryptkey>
+  <license wg-username="Naturalplay" registered-email="natural.play.iptv@gmail.com" password="05acca6c">To force a license update; replace this text with the letter f</license>
+  <logging>on</logging>
+  <retry time-out="80">4</retry>
+  <timespan>6</timespan>
+  <update>i</update>
+
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008757" xmltv_id="Nick Music (NICM) [368]">Nick Music (NICM) [368]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011380" xmltv_id="MTV Live HDTV (MTVL) [369]">MTV Live HDTV (MTVL) [369]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200002896" xmltv_id="MoviePlex East (MPLEX) [377]">MoviePlex East (MPLEX) [377]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009339" xmltv_id="IndiePlex HDTV (INDIEHD) [378]">IndiePlex HDTV (INDIEHD) [378]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006661" xmltv_id="EPIX (East) (EPIX) [380]">EPIX (East) (EPIX) [380]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009335" xmltv_id="EPIX HDTV (East) (EPIXHD) [380]">EPIX HDTV (East) (EPIXHD) [380]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233013634" xmltv_id="EPIX2 HDTV (East) (EPIXHD) [381]">EPIX2 HDTV (East) (EPIXHD) [381]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003123" xmltv_id="EPIX2 SDTV (East) (EPIX2) [381]">EPIX2 SDTV (East) (EPIX2) [381]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020594" xmltv_id="EPIX HITS HDTV (EPIXHIT) [382]">EPIX HITS HDTV (EPIXHIT) [382]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233008463" xmltv_id="EPIX HITS SDTV (East) (EPIXHIT) [382]">EPIX HITS SDTV (East) (EPIXHIT) [382]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233013967" xmltv_id="FX Movie Channel (FXM) [384]">FX Movie Channel (FXM) [384]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003765" xmltv_id="MGM HDTV (MGMHD) [385]">MGM HDTV (MGMHD) [385]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002115" xmltv_id="Sony Movie Channel (SONY) [386]">Sony Movie Channel (SONY) [386]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004997" xmltv_id="Sony Movie Channel HD (SONY) [386]">Sony Movie Channel HD (SONY) [386]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233008939" xmltv_id="Olympic Channel HDTV (OLYHD) [389]">Olympic Channel HDTV (OLYHD) [389]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200013878" xmltv_id="Olympic Channel (OLY) [389]">Olympic Channel (OLY) [389]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200002870" xmltv_id="Outside Television (National) (OUTSD) [390]">Outside Television (National) (OUTSD) [390]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015591" xmltv_id="Fox Soccer Plus (FSPLUS) [391]">Fox Soccer Plus (FSPLUS) [391]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020571" xmltv_id="beIN Sports (English) (beIN) [392]">beIN Sports (English) (beIN) [392]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233013928" xmltv_id="beIN Sports HDTV (English) (beIn) [392]">beIN Sports HDTV (English) (beIn) [392]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233007786" xmltv_id="Pursuit Channel (DISH only) (PRST) [393]">Pursuit Channel (DISH only) (PRST) [393]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015564" xmltv_id="World Fishing Network (US) (WFN) [394]">World Fishing Network (US) (WFN) [394]</channel> 
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003538" xmltv_id="Outdoor Channel (OUTD) [396]">Outdoor Channel (OUTD) [396]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006358" xmltv_id="Outdoor Channel HDTV (OUTHD) [396]">Outdoor Channel HDTV (OUTHD) [396]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200019557" xmltv_id="FightBox SDTV (FIGHTB) [397]">FightBox SDTV (FIGHTB) [397]</channel> 
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200017917" xmltv_id="Tennis Channel (TENNIS) [400]">Tennis Channel (TENNIS) [400]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004566" xmltv_id="Tennis Channel HDTV (TNNSHD) [400]">Tennis Channel HDTV (TNNSHD) [400]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005443" xmltv_id="The Golf Channel (GOLF) [401]">The Golf Channel (GOLF) [401]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011865" xmltv_id="The Golf Channel HDTV (GLFHD) [401]">The Golf Channel HDTV (GLFHD) [401]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011061" xmltv_id="ACC Network HDTV (ACCN) [402]">ACC Network HDTV (ACCN) [402]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200017734" xmltv_id="ACC Network (ACCN) [402]">ACC Network (ACCN) [402]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200010873" xmltv_id="ESPN Goal Line HDTV (ESPNGL) [403]">ESPN Goal Line HDTV (ESPNGL) [403]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200015606" xmltv_id="ESPN Goal Line (ESPNGL) [403]">ESPN Goal Line (ESPNGL) [403]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002484" xmltv_id="SEC Network HDTV (SECN) [404.1]">SEC Network HDTV (SECN) [404.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233008517" xmltv_id="SEC Network (SECN) [404.1]">SEC Network (SECN) [404.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200015038" xmltv_id="SEC Network HDTV (SEC-A) [404.2]">SEC Network HDTV (SEC-A) [404.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016871" xmltv_id="SEC Network (SEC-A) [404.2]">SEC Network (SEC-A) [404.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233010142" xmltv_id="SEC Network HDTV (SEC-B) [404.3]">SEC Network HDTV (SEC-B) [404.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200018765" xmltv_id="SEC Network (SEC-B) [404.3]">SEC Network (SEC-B) [404.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004533" xmltv_id="Big Ten Network (National) (BTN) [405]">Big Ten Network (National) (BTN) [405]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015438" xmltv_id="Big Ten Network HDTV (National) (BTNHD) [405.1]">Big Ten Network HDTV (National) (BTNHD) [405.1]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000474" xmltv_id="Big Ten Network (24/7 Overflow #1) (BTFB1) [405.2]">Big Ten Network (24/7 Overflow #1) (BTFB1) [405.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009401" xmltv_id="Big Ten Network HDTV (24/7 Overflow #1) (BTFB1) [405.2]">Big Ten Network HDTV (24/7 Overflow #1) (BTFB1) [405.2]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004548" xmltv_id="Big Ten Network (24/7 Overflow #2) (BTFB2) [405.3]">Big Ten Network (24/7 Overflow #2) (BTFB2) [405.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009653" xmltv_id="Big Ten Network HDTV (24/7 Overflow #2) (BTNaHD) [405.3]">Big Ten Network HDTV (24/7 Overflow #2) (BTNaHD) [405.3]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020100" xmltv_id="Big Ten Network (24/7 Overflow #3) (BTNa) [405.4]">Big Ten Network (24/7 Overflow #3) (BTNa) [405.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200018314" xmltv_id="Big Ten Network HDTV (24/7 Overflow #3) (BTNaHD) [405.4]">Big Ten Network HDTV (24/7 Overflow #3) (BTNaHD) [405.4]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005673" xmltv_id="Big Ten Network (24/7 Overflow #4) (BTNa) [405.5]">Big Ten Network (24/7 Overflow #4) (BTNa) [405.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000686" xmltv_id="Big Ten Network HDTV (24/7 Overflow #4) (BTNaHD) [405.5]">Big Ten Network HDTV (24/7 Overflow #4) (BTNaHD) [405.5]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200017897" xmltv_id="Fox Sports Prime Ticket (PRIME) [411]">Fox Sports Prime Ticket (PRIME) [411]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014851" xmltv_id="Regional Sports Hopper Portal (RSNET) [412]">Regional Sports Hopper Portal (RSNET) [412]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015383" xmltv_id="NBC Sports California HDTV (NBCSCA) [412.01]">NBC Sports California HDTV (NBCSCA) [412.01]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233010891" xmltv_id="NBC Sports California (DISH) (NBCSCA) [412.01]">NBC Sports California (DISH) (NBCSCA) [412.01]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011645" xmltv_id="Altitude Sports &amp; Entertainment (Colorado) (ALT) [412.02]">Altitude Sports &amp; Entertainment (Colorado) (ALT) [412.02]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002045" xmltv_id="Altitude Sports &amp; Entertainment (Colorado) HDTV 24/7 (ALTHD) [412.02]">Altitude Sports &amp; Entertainment (Colorado) HDTV 24/7 (ALTHD) [412.02]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015553" xmltv_id="Fox Sports Prime Ticket HDTV (PRIMEHD) [412.03]">Fox Sports Prime Ticket HDTV (PRIMEHD) [412.03]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011947" xmltv_id="AT&amp;T SportsNet Rocky Mountain (ATTSN) [412.04]">AT&amp;T SportsNet Rocky Mountain (ATTSN) [412.04]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020192" xmltv_id="AT&amp;T SportsNet Rocky Mountain 24/7 HDTV (ATTHD) [412.04]">AT&amp;T SportsNet Rocky Mountain 24/7 HDTV (ATTHD) [412.04]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011224" xmltv_id="Fox Sports Arizona (FSA) [412.05]">Fox Sports Arizona (FSA) [412.05]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003681" xmltv_id="Fox Sports Arizona 24/7 HDTV (FSAHD) [412.05]">Fox Sports Arizona 24/7 HDTV (FSAHD) [412.05]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009567" xmltv_id="Fox Sports Southwest HDTV 24/7 (Main) (FSSWHD) [412.06]">Fox Sports Southwest HDTV 24/7 (Main) (FSSWHD) [412.06]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233013816" xmltv_id="Fox Sports Southwest (FSSW) [412.06]">Fox Sports Southwest (FSSW) [412.06]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003860" xmltv_id="Fox Sports West HDTV (FSWHD) [412.07]">Fox Sports West HDTV (FSWHD) [412.07]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200012002" xmltv_id="Fox Sports West (FSW) [412.07]">Fox Sports West (FSW) [412.07]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000088" xmltv_id="Fox Sports Midwest (St. Louis) (FSN) [412.08]">Fox Sports Midwest (St. Louis) (FSN) [412.08]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200002631" xmltv_id="Fox Sports Midwest St. Louis HDTV 24/7 (FSNHD) [412.08]">Fox Sports Midwest St. Louis HDTV 24/7 (FSNHD) [412.08]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200018215" xmltv_id="NBC Sports Bay Area HDTV 24/7 (CSNBD) [412.09]">NBC Sports Bay Area HDTV 24/7 (CSNBD) [412.09]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002186" xmltv_id="NBC Sports Bay Area (NBCSBA) [412.09]">NBC Sports Bay Area (NBCSBA) [412.09]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005771" xmltv_id="Fox Sports South (Atlanta DMA) 24/7 HDTV (FSN HD) [412.10]">Fox Sports South (Atlanta DMA) 24/7 HDTV (FSN HD) [412.10]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005109" xmltv_id="Fox Sports South (Dish) (FSSO) [412.10]">Fox Sports South (Dish) (FSSO) [412.10]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015540" xmltv_id="Fox Sports Sun South (SUN) [412.12]">Fox Sports Sun South (SUN) [412.12]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008373" xmltv_id="Fox Sports Sun HDTV (SUN) [412.12]">Fox Sports Sun HDTV (SUN) [412.12]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005507" xmltv_id="Fox Sports Florida 24/7 HDTV (Rays, Marlins, Panthers) (FSNHD) [412.13]">Fox Sports Florida 24/7 HDTV (Rays, Marlins, Panthers) (FSNHD) [412.13]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233000215" xmltv_id="Fox Sports Florida (FSN) [412.13]">Fox Sports Florida (FSN) [412.13]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015207" xmltv_id="NBC Sports Washington (NBCSWA) [412.14]">NBC Sports Washington (NBCSWA) [412.14]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015235" xmltv_id="NBC Sports Washington HDTV 24/7 (NBCSWAHD) [412.14]">NBC Sports Washington HDTV 24/7 (NBCSWAHD) [412.14]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009199" xmltv_id="Fox Sports Ohio (Cleveland) HDTV (FSNHD) [412.15]">Fox Sports Ohio (Cleveland) HDTV (FSNHD) [412.15]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006860" xmltv_id="Fox Sports Ohio (Cleveland) (FSN) [412.15]">Fox Sports Ohio (Cleveland) (FSN) [412.15]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004297" xmltv_id="Root Sports Northwest (ROOT) [412.16]">Root Sports Northwest (ROOT) [412.16]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233001804" xmltv_id="Root Sports Northwest 24/7 HDTV (ROOTD) [412.16]">Root Sports Northwest 24/7 HDTV (ROOTD) [412.16]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000333" xmltv_id="Fox Sports Ohio (Cincinnati) HDTV (FSNHD) [412.17]">Fox Sports Ohio (Cincinnati) HDTV (FSNHD) [412.17]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009577" xmltv_id="Fox Sports Ohio (Cincinnati) (FSN) [412.17]">Fox Sports Ohio (Cincinnati) (FSN) [412.17]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003520" xmltv_id="AT&amp;T SportsNet Pittsburgh (Pittsburgh DMA) (ATTSN) [412.18]">AT&amp;T SportsNet Pittsburgh (Pittsburgh DMA) (ATTSN) [412.18]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011424" xmltv_id="AT&amp;T SportsNet Pittsburgh HDTV (Pittsburgh DMA) (ATTHD) [412.18]">AT&amp;T SportsNet Pittsburgh HDTV (Pittsburgh DMA) (ATTHD) [412.18]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000250" xmltv_id="NBC Sports Chicago (NBCSCH) [412.19]">NBC Sports Chicago (NBCSCH) [412.19]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008966" xmltv_id="NBC Sports Chicago HDTV (NBCSCHHD) [412.19]">NBC Sports Chicago HDTV (NBCSCHHD) [412.19]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004486" xmltv_id="Fox Sports Detroit 24/7 HDTV (FSD HD) [412.20]">Fox Sports Detroit 24/7 HDTV (FSD HD) [412.20]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003743" xmltv_id="Fox Sports Detroit (FSD) [412.20]">Fox Sports Detroit (FSD) [412.20]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006393" xmltv_id="SportsTime Ohio (STO) [412.21]">SportsTime Ohio (STO) [412.21]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006397" xmltv_id="SportsTime Ohio HDTV (STOHD) [412.21]">SportsTime Ohio HDTV (STOHD) [412.21]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011389" xmltv_id="Mid-Atlantic Sports Network (MASN) [412.22]">Mid-Atlantic Sports Network (MASN) [412.22]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003777" xmltv_id="Mid-Atlantic Sports Network HDTV (MASHD) [412.22]">Mid-Atlantic Sports Network HDTV (MASHD) [412.22]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200002470" xmltv_id="Mid-Atlantic Sports Network 2 (MASN2) [412.23]">Mid-Atlantic Sports Network 2 (MASN2) [412.23]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005790" xmltv_id="Mid Atlantic Sports Network 2 HDTV (MASN2HD) [412.23]">Mid Atlantic Sports Network 2 HDTV (MASN2HD) [412.23]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004312" xmltv_id="New England Sports Network (NESN) [412.24]">New England Sports Network (NESN) [412.24]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200019898" xmltv_id="New England Sports Network HDTV (NESNHD) [412.24]">New England Sports Network HDTV (NESNHD) [412.24]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014498" xmltv_id="Fox Sports North (FSN) [412.26]">Fox Sports North (FSN) [412.26]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009593" xmltv_id="Fox Sports North HDTV (FSNHD) [412.26]">Fox Sports North HDTV (FSNHD) [412.26]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015421" xmltv_id="Fox Sports Southeast (FSSE) [412.27]">Fox Sports Southeast (FSSE) [412.27]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016382" xmltv_id="Fox Sports Southeast HDTV (FSSE) [412.27]">Fox Sports Southeast HDTV (FSSE) [412.27]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016284" xmltv_id="RSN Alternate Channel (ALT) [412.28]">RSN Alternate Channel (ALT) [412.28]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020404" xmltv_id="RSN Alternate Channel HDTV (ALT) [412.28]">RSN Alternate Channel HDTV (ALT) [412.28]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009787" xmltv_id="Fox Sports San Diego (FSNSD) [412.43]">Fox Sports San Diego (FSNSD) [412.43]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233013769" xmltv_id="Fox Sports San Diego HDTV (FSHD) [412.43]">Fox Sports San Diego HDTV (FSHD) [412.43]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009111" xmltv_id="Fox Sports Southwest HDTV (Dallas DMA) 24/7 (FSSWHD) [416]">Fox Sports Southwest HDTV (Dallas DMA) 24/7 (FSSWHD) [416]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233016751" xmltv_id="Fox Sports Midwest (Satellite only) (FSNMW) [418]">Fox Sports Midwest (Satellite only) (FSNMW) [418]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003180" xmltv_id="Fox Sports Sun (SUN) [422]">Fox Sports Sun (SUN) [422]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233007795" xmltv_id="Fox Sports Ohio (Cincinnati Dish) (FSNHD) [427]">Fox Sports Ohio (Cincinnati Dish) (FSNHD) [427]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011882" xmltv_id="Fox Sports Southeast (FSSE) [437]">Fox Sports Southeast (FSSE) [437]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200019877" xmltv_id="PPV Sports (PPVSP) [455]">PPV Sports (PPVSP) [455]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002968" xmltv_id="NBA League Pass Dish HDTV (NBALP) [470.01]">NBA League Pass Dish HDTV (NBALP) [470.01]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003734" xmltv_id="NHL Center Ice Dish HDTV (NHLCI) [475.01]">NHL Center Ice Dish HDTV (NHLCI) [475.01]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200013523" xmltv_id="NHL Center Ice Dish (NHLCI) [475.15]">NHL Center Ice Dish (NHLCI) [475.15]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233012657" xmltv_id="MLB Extra Innings Dish HDTV (MLBXI) [476.01]">MLB Extra Innings Dish HDTV (MLBXI) [476.01]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009781" xmltv_id="NHL Network Alternate (NHL) [477]">NHL Network Alternate (NHL) [477]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016557" xmltv_id="NHL Network Alternate HDTV (NHLaHD) [477]">NHL Network Alternate HDTV (NHLaHD) [477]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006895" xmltv_id="MLB Network Alternate DirecTV (MLB) [478]">MLB Network Alternate DirecTV (MLB) [478]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233007124" xmltv_id="MLB Network Alternate HDTV DirecTV (MLBAHD) [478]">MLB Network Alternate HDTV DirecTV (MLBAHD) [478]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009513" xmltv_id="Adult Guard Support (ALOCK) [480]">Adult Guard Support (ALOCK) [480]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011946" xmltv_id="Adult PPV (APPV) [481]">Adult PPV (APPV) [481]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008319" xmltv_id="Cheap Thrills (Dish) (CHEAP) [486]">Cheap Thrills (Dish) (CHEAP) [486]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020443" xmltv_id="Playboy TV Latin America &amp; Iberia (PLYBY) [487]">Playboy TV Latin America &amp; Iberia (PLYBY) [487]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015773" xmltv_id="Playboy Digital (PLBY) [488]">Playboy Digital (PLBY) [488]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009524" xmltv_id="Adult Showcase (ASHOW) [490]">Adult Showcase (ASHOW) [490]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009686" xmltv_id="Real XX (XREAL) [491]">Real XX (XREAL) [491]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233000526" xmltv_id="Vivid TV (VIVID) [492]">Vivid TV (VIVID) [492]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009685" xmltv_id="Brazzers TV (BRAZZERS) [493]">Brazzers TV (BRAZZERS) [493]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006784" xmltv_id="TEN XX.5 (TENXX5) [494]">TEN XX.5 (TENXX5) [494]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008320" xmltv_id="Reality Kings (Dish) (RKTV) [495]">Reality Kings (Dish) (RKTV) [495]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200004426" xmltv_id="Hustler TV - Domestic (HUSLR) [496]">Hustler TV - Domestic (HUSLR) [496]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003950" xmltv_id="Hustler HD (Dish) (HUSLRH) [497]">Hustler HD (Dish) (HUSLRH) [497]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006994" xmltv_id="XTSY XXX (XTSY) [498]">XTSY XXX (XTSY) [498]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000978" xmltv_id="euronews (EUNEWS) [600.04]">euronews (EUNEWS) [600.04]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000802" xmltv_id="Eleven Sports Network (ESN) [600.05]">Eleven Sports Network (ESN) [600.05]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006900" xmltv_id="Trace Sport Stars HDTV (TRCSPHD) [600.10]">Trace Sport Stars HDTV (TRCSPHD) [600.10]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002225" xmltv_id="TV Globo Internacional (LATAM &amp; United States) (GLOBO) [602.02]">TV Globo Internacional (LATAM &amp; United States) (GLOBO) [602.02]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233007785" xmltv_id="MBC USA (MBCUS) [640]">MBC USA (MBCUS) [640]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006277" xmltv_id="Azteca America Network (East) (AZTECA) [825]">Azteca America Network (East) (AZTECA) [825]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016152" xmltv_id="WAPA América (WAPA) [826]">WAPA América (WAPA) [826]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009232" xmltv_id="Univisión Network (Pacific) (UNI) [828]">Univisión Network (Pacific) (UNI) [828]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233001818" xmltv_id="DISH Network (D101) [829]">DISH Network (D101) [829]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014590" xmltv_id="Centroamérica TV (CATV) [832]">Centroamérica TV (CATV) [832]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200012088" xmltv_id="Pasiones (USA) (PASN) [834]">Pasiones (USA) (PASN) [834]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011857" xmltv_id="Telemundo Network (East) (TELMUN) [835]">Telemundo Network (East) (TELMUN) [835]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009640" xmltv_id="Telemundo Network (West) (TELMUN) [836]">Telemundo Network (West) (TELMUN) [836]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200020566" xmltv_id="Univisión tlnovelas (TLNOV) [837]">Univisión tlnovelas (TLNOV) [837]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200010062" xmltv_id="UNIVERSO HDTV (East) (UNVSOHD) [838]">UNIVERSO HDTV (East) (UNVSOHD) [838]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200001888" xmltv_id="Antena 3 (Internacional - USA) (ANT3) [839]">Antena 3 (Internacional - USA) (ANT3) [839]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005944" xmltv_id="TVE Internacional (North &amp; South America) (TVE) [840]">TVE Internacional (North &amp; South America) (TVE) [840]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233001682" xmltv_id="RCN Nuestra Tele (NUETELE) [841]">RCN Nuestra Tele (NUETELE) [841]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233001705" xmltv_id="Caracol TV Internacional (CRC.INT) [842]">Caracol TV Internacional (CRC.INT) [842]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000937" xmltv_id="HITN-TV (HITN) [843]">HITN-TV (HITN) [843]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016242" xmltv_id="Televisión Dominicana (DOMIN) [844]">Televisión Dominicana (DOMIN) [844]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016595" xmltv_id="The Discovery Channel en Español (DSCE) [845]">The Discovery Channel en Español (DSCE) [845]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014415" xmltv_id="Vme (V-Me) [846]">Vme (V-Me) [846]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009508" xmltv_id="Foro TV (FOROTV) [847]">Foro TV (FOROTV) [847]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009288" xmltv_id="CBeebies (CBeBie) [848]">CBeebies (CBeBie) [848]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003910" xmltv_id="Cuba Max (CUBAM) [851]">Cuba Max (CUBAM) [851]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005776" xmltv_id="Estrella TV (East) (ESTRELLA) [852]">Estrella TV (East) (ESTRELLA) [852]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233003757" xmltv_id="Discovery Familia (U.S. feed) (DFAM) [853]">Discovery Familia (U.S. feed) (DFAM) [853]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233015675" xmltv_id="ESPN Deportes HDTV (EDEPHD) [854]">ESPN Deportes HDTV (EDEPHD) [854]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233000478" xmltv_id="ESPN Deportes (ESNDEP) [854]">ESPN Deportes (ESNDEP) [854]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014244" xmltv_id="Fox Deportes en Español (U.S.) (FOXDEP) [855]">Fox Deportes en Español (U.S.) (FOXDEP) [855]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009721" xmltv_id="Fox Deportes en Español HDTV (U.S.) (FXDEHD) [855]">Fox Deportes en Español HDTV (U.S.) (FXDEHD) [855]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233004204" xmltv_id="Latin American Sports (LAS) [856]">Latin American Sports (LAS) [856]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003168" xmltv_id="TeleFórmula (US Feed) (TELEFO) [858]">TeleFórmula (US Feed) (TELEFO) [858]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233009828" xmltv_id="Cable News Network en Español (USA) (CNNE) [859]">Cable News Network en Español (USA) (CNNE) [859]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233002143" xmltv_id="Nat Geo Mundo (NGMUN) [861]">Nat Geo Mundo (NGMUN) [861]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200006438" xmltv_id="De Película EUA (USA) (DEPEL) [862]">De Película EUA (USA) (DEPEL) [862]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200000185" xmltv_id="De Película Clásico (DPCLA) [863]">De Película Clásico (DPCLA) [863]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233004276" xmltv_id="Cine Sony Television (CSONY) [864]">Cine Sony Television (CSONY) [864]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200016345" xmltv_id="Cine Latino (US) (CINEL) [865]">Cine Latino (US) (CINEL) [865]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200014407" xmltv_id="Bandamax (U.S.) (BANDA) [867]">Bandamax (U.S.) (BANDA) [867]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009083" xmltv_id="Telehit (U.S.) (TELHT) [868]">Telehit (U.S.) (TELHT) [868]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200018585" xmltv_id="beIN Sports (Spanish) (beIN) [873]">beIN Sports (Spanish) (beIN) [873]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200009797" xmltv_id="beIN Sports HDTV (Spanish) (beINHD) [873]">beIN Sports HDTV (Spanish) (beINHD) [873]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200005926" xmltv_id="CGTN Español (CGTNE) [884]">CGTN Español (CGTNE) [884]</channel> 
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233006891" xmltv_id="Almavisión Hispanic Network (ALMAV) [4818]">Almavisión Hispanic Network (ALMAV) [4818]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200002882" xmltv_id="UNIVERSO (East) (UNVSO) [4822]">UNIVERSO (East) (UNVSO) [4822]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233011241" xmltv_id="TBN Enlace USA (ENLAC) [4870]">TBN Enlace USA (ENLAC) [4870]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233005065" xmltv_id="Fox Sports Prime Ticket (Dish) (PRIME) [5411]">Fox Sports Prime Ticket (Dish) (PRIME) [5411]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200021425" xmltv_id="AT&amp;T SportsNet Rocky Mountain (Dish) (ATTSN) [5414]">AT&amp;T SportsNet Rocky Mountain (Dish) (ATTSN) [5414]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008316" xmltv_id="Fox Sports Arizona (Dish) (FOXAZ) [5415]">Fox Sports Arizona (Dish) (FOXAZ) [5415]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200008374" xmltv_id="Fox Sports Midwest (Satellite only) (FSNMW) [5418]">Fox Sports Midwest (Satellite only) (FSNMW) [5418]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011003" xmltv_id="NBC Sports Bay Area (Dish) (NBCSBA) [5419]">NBC Sports Bay Area (Dish) (NBCSBA) [5419]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200011060" xmltv_id="Fox Sports South HDTV (Dish) (FSSOHD) [5420]">Fox Sports South HDTV (Dish) (FSSOHD) [5420]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200013781" xmltv_id="Fox Sports Florida (Dish) (FOXFLA) [5423]">Fox Sports Florida (Dish) (FOXFLA) [5423]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200012036" xmltv_id="Root Sports Northwest 24/7 HDTV (Seattle) (ROOTD) [5426]">Root Sports Northwest 24/7 HDTV (Seattle) (ROOTD) [5426]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200017609" xmltv_id="Fox Sports Ohio (Cincinnati Dish) HDTV (FSNHD) [5427]">Fox Sports Ohio (Cincinnati Dish) HDTV (FSNHD) [5427]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200003961" xmltv_id="NBC Sports California (DISH) (NBCSCA) [5438]">NBC Sports California (DISH) (NBCSCA) [5438]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9200001026" xmltv_id="FX Movie Channel HDTV (FXMHD) [9610]">FX Movie Channel HDTV (FXMHD) [9610]</channel>
+    <channel update="i" site="tvguide.com" site_id="9100008443##9233012854" xmltv_id="Smart (SMART) [9643]">Smart (SMART) [9643]</channel>
+	
+</settings>
